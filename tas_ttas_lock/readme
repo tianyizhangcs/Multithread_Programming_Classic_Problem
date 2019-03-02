@@ -1,0 +1,17 @@
+This project requires cmake
+
+In order to build the project, simply run ./run.sh
+
+The script will handle the building and running process
+
+The data will be written to the build folder, you can change it by modifying run.sh
+
+As my example, the data are under build_ch7, the filenames are _tas_1.txt etc...
+
+I run each lock 3 times, you can also simply change it by editing the python code and run.sh
+
+python3 result.py will run the python code to plot the data
+
+Running sample are provided under folder build_ch7
+
+experiment_result.png is the final result
